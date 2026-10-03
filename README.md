@@ -13,7 +13,7 @@ Render Swagger UI에서 계좌를 생성한 후 Supabase Table Editor를 확인�
 
 ### Supabase 저장 결과
 
-![Supabase accounts](supabase_accounts.jpeg)
+![Supabase accounts](supabase_accounts.jpg)
 
 또한 계좌와 거래의 1:N 관계를 확인하기 위해
 `GET /accounts/1/detail`을 실행
@@ -25,7 +25,7 @@ Render Swagger UI에서 계좌를 생성한 후 Supabase Table Editor를 확인�
 
 ### 계좌 상세 조회 결과
 
-![Account detail](account_detail.jpeg)
+![Account detail](account_detail.jpg)
 
 `GET /stats/by-category`를 실행하여 카테고리별 지출을 집계
 
@@ -34,7 +34,7 @@ Render Swagger UI에서 계좌를 생성한 후 Supabase Table Editor를 확인�
 
 ### 카테고리별 집계 결과
 
-![Category stats](stats_by_category.jpeg)
+![Category stats](stats_by_category.jpg)
 
 ## 2. 핵심 개념 되새김
 
